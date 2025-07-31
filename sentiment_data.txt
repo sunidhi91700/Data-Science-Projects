@@ -1,0 +1,6 @@
+__label__2 Great product, really loved the quality and finish!
+__label__1 Very poor build, stopped working in two days.
+__label__2 The packaging was great and it works perfectly.
+__label__1 Waste of money. Not recommended at all.
+__label__2 Amazing! Will definitely buy again.
+__label__1 Cheap quality. Broke after first use.
