@@ -1,5 +1,11 @@
 # 🧠 Sentiment Analysis with Naive Bayes & Streamlit
 
+Screenshots:
+<img width="2549" height="1359" alt="image" src="https://github.com/user-attachments/assets/12139f85-7622-4ea6-80dd-dce3d4351868" />
+
+<img width="2559" height="1364" alt="image" src="https://github.com/user-attachments/assets/d7120281-74a6-4069-80d8-8f6a004e930a" />
+
+
 A complete end-to-end sentiment analysis project built using:
 
 - ✅ Python
